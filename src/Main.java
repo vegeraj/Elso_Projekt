@@ -53,7 +53,7 @@ public class Main {
         System.out.print("Adj meg egy szöveget: ");
         szoveg = input.nextLine();
         System.out.println("A kapott szöveg: " + szoveg);
-
+        //Új sor beszúrása
 
     }
 }
